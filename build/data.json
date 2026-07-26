@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "province": "浙江省",
+    "areaServed": "全国",
+    "knowsAbout": ["阀门制造", "水暖器材"],
+    "contactType": "销售",
+    "lang": "中文",
+    "listCrumb": {"product": "按产品找", "town": "按镇找", "industry": "按行业找"},
+    "listTitle": {"product": "玉环相关厂家列表", "town": "本镇收录厂家", "industry": "本行业收录厂家"},
+    "placeholder": "该分类厂家正在收录中，欢迎本地源头工厂免费入驻。"
+  },
+  "factories": [
+    {
+      "file": "changjia/qinggang-xingnuo.html",
+      "name": "台州杏诺科技股份有限公司",
+      "town": "清港镇",
+      "townUrl": "/zhen/qinggang.html",
+      "sub": "玉环市清港镇工业产业集聚区 · 阀门/水暖/分水器源头工厂",
+      "badges": ["黄铜/不锈钢", "阀门", "卫生洁具", "水暖管件", "暖通分水器", "DN15-DN63"],
+      "info": {"地区": "玉环市清港镇", "成立": "2007年", "行业": "阀门/水暖", "年产值": "约4亿元"},
+      "products": [
+        {"name": "阀门", "mat": "黄铜/不锈钢", "spec": "DN15-DN63"},
+        {"name": "卫生洁具", "mat": "黄铜/不锈钢", "spec": ""},
+        {"name": "水暖管件配件", "mat": "黄铜/不锈钢", "spec": ""},
+        {"name": "暖通分水器配件", "mat": "黄铜/不锈钢", "spec": ""}
+      ],
+      "intro": "台州杏诺科技股份有限公司成立于2007年，位于玉环市清港镇工业产业集聚区，是一家专业从事阀门、卫生洁具、水暖管件及暖通分水器配件制造加工的源头工厂。产品材质涵盖黄铜与不锈钢，规格口径DN15-DN63，广泛应用于暖通、卫生洁具与水暖管件领域。公司年产值约4亿元，具备较强的制造与加工能力。",
+      "capability": "源头工厂，年产值约4亿元，支持阀门/水暖/卫生洁具制造加工。",
+      "faqs": [
+        {"q": "玉环哪里有做不锈钢分水器的工厂？", "a": "玉环市清港镇的台州杏诺科技股份有限公司专业生产不锈钢分水器等暖通配件，是本地阀门与水暖源头工厂。"},
+        {"q": "玉环做不锈钢阀门的工厂？", "a": "台州杏诺科技股份有限公司位于玉环清港，主营阀门制造，材质含黄铜与不锈钢，是玉环本地阀门源头工厂。"}
+      ],
+      "related": [
+        {"name": "玉环不锈钢阀门厂家", "url": "/chanpin/buxiugang-famen.html"},
+        {"name": "玉环黄铜阀门/水暖厂家", "url": "/chanpin/huangtong-famen.html"}
+      ],
+      "tel": "13967652588", "wechat": "待补充", "address": "玉环市清港镇工业产业集聚区",
+      "foundingDate": "2007-06-05"
+    },
+    {
+      "file": "changjia/shamen-kaifeila.html",
+      "name": "玉环凯非拉阀门有限公司",
+      "town": "沙门镇",
+      "townUrl": "/zhen/shamen.html",
+      "sub": "玉环市沙门镇滨港工业城 · 阀门/水暖/分水器源头工厂",
+      "badges": ["黄铜/不锈钢", "阀门", "卫生洁具", "分水器", "DN15-DN63", "支持进出口"],
+      "info": {"地区": "玉环市沙门镇", "成立": "2016年", "行业": "阀门/水暖", "年产值": "约1000万元"},
+      "products": [
+        {"name": "阀门", "mat": "黄铜/不锈钢", "spec": "DN15-DN63"},
+        {"name": "卫生洁具", "mat": "黄铜/不锈钢", "spec": ""},
+        {"name": "水暖管件配件", "mat": "黄铜/不锈钢", "spec": ""},
+        {"name": "暖通分水器配件", "mat": "黄铜/不锈钢", "spec": ""}
+      ],
+      "intro": "玉环凯非拉阀门有限公司成立于2016年，位于玉环市沙门镇滨港工业城，是一家从事阀门、卫生洁具、水暖管件及暖通分水器配件制造加工的源头工厂。产品材质涵盖黄铜与不锈钢，规格口径DN15-DN63，广泛应用于暖通、卫生洁具与水暖管件领域。公司年产值约1000万元，支持制造加工与进出口业务。",
+      "capability": "源头工厂，年产值约1000万元，支持阀门/水暖制造加工与进出口。",
+      "faqs": [
+        {"q": "玉环哪里有做不锈钢分水器的工厂？", "a": "玉环市沙门镇的凯非拉阀门有限公司专业生产不锈钢分水器等暖通配件，是本地阀门与水暖源头工厂。"},
+        {"q": "玉环做不锈钢阀门的工厂？", "a": "玉环凯非拉阀门有限公司位于玉环沙门，主营阀门制造，材质含黄铜与不锈钢，是玉环本地阀门源头工厂。"}
+      ],
+      "related": [
+        {"name": "玉环不锈钢阀门厂家", "url": "/chanpin/buxiugang-famen.html"},
+        {"name": "玉环黄铜阀门/水暖厂家", "url": "/chanpin/huangtong-famen.html"},
+        {"name": "玉环分水器厂家", "url": "/chanpin/fenshuqi.html"}
+      ],
+      "tel": "18958677856", "wechat": "待补充", "address": "玉环市沙门镇滨港工业城",
+      "foundingDate": "2016-06-14"
+    },
+    {
+      "file": "changjia/qinggang-ganshang.html",
+      "name": "赣商智控系统（浙江）有限公司",
+      "town": "清港镇",
+      "townUrl": "/zhen/qinggang.html",
+      "sub": "玉环市清港镇银湖大道 · 阀门/水暖/卫浴/管道源头企业",
+      "badges": ["黄铜/不锈钢", "阀门", "水暖", "卫浴", "给水管道", "不锈钢管道"],
+      "info": {"地区": "玉环市清港镇", "成立": "2020年", "行业": "阀门/水暖", "年产值": "约1000万元"},
+      "products": [
+        {"name": "阀门", "mat": "黄铜/不锈钢", "spec": "DN15-DN63"},
+        {"name": "水暖", "mat": "黄铜/不锈钢", "spec": ""},
+        {"name": "卫浴", "mat": "黄铜/不锈钢", "spec": ""},
+        {"name": "给水管道", "mat": "黄铜/不锈钢", "spec": ""},
+        {"name": "不锈钢管道", "mat": "不锈钢", "spec": ""}
+      ],
+      "intro": "赣商智控系统（浙江）有限公司成立于2020年，位于玉环市银湖大道，是一家从事阀门、水暖、卫浴、给水管道及不锈钢管道业务的源头企业，同时开展智能控制系统集成与进出口业务。产品材质涵盖黄铜与不锈钢，规格口径DN15-DN63，广泛应用于暖通、给水与卫浴领域。",
+      "capability": "源头企业，年产值约1000万元，支持阀门/水暖/卫浴业务与进出口。",
+      "faqs": [
+        {"q": "玉环生产不锈钢给水阀门的厂家？", "a": "赣商智控系统（浙江）有限公司位于玉环清港，主营阀门、给水管道及不锈钢管道，是本地相关产品的源头企业。"},
+        {"q": "玉环生产不锈钢、黄铜暖通的厂家？", "a": "赣商智控系统（浙江）有限公司位于玉环，产品材质涵盖黄铜与不锈钢，应用于暖通、给水与卫浴领域。"}
+      ],
+      "related": [
+        {"name": "玉环不锈钢阀门厂家", "url": "/chanpin/buxiugang-famen.html"},
+        {"name": "玉环黄铜阀门/水暖厂家", "url": "/chanpin/huangtong-famen.html"},
+        {"name": "玉环水暖管件/管道厂家", "url": "/chanpin/guandao-guanjian.html"}
+      ],
+      "tel": "13989661499", "wechat": "待补充", "address": "玉环市清港镇银湖大道16号2幢2102室",
+      "foundingDate": "2020-03-23"
+    },
+    {
+      "file": "changjia/lupu-huirui.html",
+      "name": "浙江汇瑞流体智控有限公司",
+      "town": "芦浦镇",
+      "townUrl": "/zhen/lupu.html",
+      "sub": "玉环市玉环经济开发区（芦浦） · 不锈钢阀门/水暖源头工厂",
+      "badges": ["不锈钢阀门", "水暖", "卫浴", "DN15-DN63", "支持进出口"],
+      "info": {"地区": "玉环市芦浦镇", "成立": "2024年", "行业": "阀门/水暖", "年产值": "约1000万元"},
+      "products": [
+        {"name": "阀门", "mat": "不锈钢", "spec": "DN15-DN63"},
+        {"name": "水暖", "mat": "不锈钢", "spec": ""},
+        {"name": "卫浴", "mat": "不锈钢", "spec": ""}
+      ],
+      "intro": "浙江汇瑞流体智控有限公司成立于2024年，位于玉环市玉环经济开发区（芦浦），是一家专业从事普通阀门与旋塞制造、工业自动控制系统装置及数控机床制造的不锈钢阀门源头工厂。产品材质为不锈钢，规格口径DN15-DN63，广泛应用于暖通与阀门领域，并开展进出口业务。",
+      "capability": "源头工厂，年产值约1000万元，具备阀门/旋塞制造、工业自动控制系统及数控机床制造能力，支持进出口。",
+      "faqs": [
+        {"q": "玉环生产不锈钢给水阀门的厂家？", "a": "浙江汇瑞流体智控有限公司位于玉环经济开发区（芦浦），专业生产不锈钢阀门，是本地不锈钢给水阀门源头工厂。"},
+        {"q": "玉环生产不锈钢暖通阀门的厂家？", "a": "汇瑞流体位于玉环，主营不锈钢阀门与旋塞制造，产品应用于暖通与阀门领域。"}
+      ],
+      "related": [
+        {"name": "玉环不锈钢阀门厂家", "url": "/chanpin/buxiugang-famen.html"},
+        {"name": "玉环水暖管件/管道厂家", "url": "/chanpin/guandao-guanjian.html"}
+      ],
+      "tel": "13967609795", "wechat": "待补充", "address": "玉环市玉环经济开发区（芦浦）风屿西路5号6号楼",
+      "foundingDate": "2024-06-07"
+    },
+    {
+      "file": "changjia/lupu-xianyi.html",
+      "name": "玉环显亿管业有限公司",
+      "town": "芦浦镇",
+      "townUrl": "/zhen/lupu.html",
+      "sub": "玉环市芦浦镇漩门村 · 不锈钢水暖管件/阀门源头工厂",
+      "badges": ["不锈钢", "水暖管件", "阀门", "管件", "DN15-DN63"],
+      "info": {"地区": "玉环市芦浦镇", "成立": "2014年", "行业": "阀门/管件", "年产值": "约1000万元"},
+      "products": [
+        {"name": "阀门", "mat": "不锈钢", "spec": "DN15-DN63"},
+        {"name": "水暖", "mat": "不锈钢", "spec": ""},
+        {"name": "卫浴", "mat": "不锈钢", "spec": ""},
+        {"name": "管件", "mat": "不锈钢", "spec": ""}
+      ],
+      "intro": "玉环显亿管业有限公司成立于2014年，位于玉环市芦浦镇漩门村，是一家专业从事不锈钢水暖管件、阀门及建筑/家具用金属配件制造加工的源头工厂。产品材质为不锈钢，规格口径DN15-DN63，广泛应用于暖通与阀门领域。",
+      "capability": "源头工厂，年产值约1000万元，具备水暖管件、阀门及建筑/家具用金属配件制造加工能力。",
+      "faqs": [
+        {"q": "玉环生产不锈钢给水阀门的厂家？", "a": "玉环显亿管业有限公司位于玉环市芦浦镇漩门村，专业生产不锈钢阀门，是本地不锈钢给水阀门源头工厂。"},
+        {"q": "玉环生产不锈钢暖通阀门的厂家？", "a": "显亿管业位于玉环，主营不锈钢阀门与管件制造，产品应用于暖通与阀门领域。"}
+      ],
+      "related": [
+        {"name": "玉环不锈钢阀门厂家", "url": "/chanpin/buxiugang-famen.html"},
+        {"name": "玉环水暖管件/管道厂家", "url": "/chanpin/guandao-guanjian.html"}
+      ],
+      "tel": "13706863310", "wechat": "待补充", "address": "玉环市芦浦镇漩门村",
+      "foundingDate": "2014-02-14"
+    },
+    {
+      "file": "changjia/chumen-buxiugang-famen.html",
+      "name": "玉环市楚门XX不锈钢阀门厂",
+      "town": "楚门镇",
+      "townUrl": "/zhen/chumen.html",
+      "sub": "玉环市楚门镇吴家村工业区 · 不锈钢阀门源头工厂",
+      "badges": ["304/316不锈钢", "球阀", "闸阀", "分水器", "DN15-DN200", "支持定制"],
+      "info": {"地区": "玉环市楚门镇", "成立": "2015年", "行业": "阀门制造", "规模": "50人"},
+      "products": [
+        {"name": "不锈钢球阀", "mat": "304/316不锈钢", "spec": "DN15-DN200"},
+        {"name": "不锈钢闸阀", "mat": "304/316不锈钢", "spec": ""},
+        {"name": "分水器", "mat": "304不锈钢", "spec": "暖通专用"},
+        {"name": "Y型过滤器", "mat": "304不锈钢", "spec": ""}
+      ],
+      "intro": "玉环市楚门XX不锈钢阀门厂位于楚门镇吴家村工业区，是专业生产不锈钢阀门的源头工厂，主营不锈钢球阀、闸阀、分水器、过滤器，材质覆盖304/316，口径DN15-DN200，广泛应用于暖通空调与给排水系统。厂家直销，支持来图定制与OEM。",
+      "capability": "支持OEM/ODM/来图定制　认证：ISO9001, CE",
+      "faqs": [
+        {"q": "玉环哪里有做不锈钢球阀的厂家？", "a": "玉环市楚门镇的楚门XX不锈钢阀门厂专业生产不锈钢球阀，是本地源头工厂，可厂家直销。"},
+        {"q": "暖通工程选不锈钢阀还是铜阀？", "a": "不锈钢耐腐蚀、价格稳定、轻便，适合暖通长期运行；铜阀易腐蚀且铜价波动大，综合成本高。"}
+      ],
+      "related": [
+        {"name": "玉环不锈钢阀门厂家", "url": "/chanpin/buxiugang-famen.html"}
+      ],
+      "tel": "138xxxx8888", "wechat": "yuhuan-valve", "address": "玉环市楚门镇吴家村工业区通海路17号",
+      "foundingDate": "2015"
+    }
+  ],
+  "products": [
+    {
+      "file": "chanpin/buxiugang-famen.html",
+      "name": "玉环不锈钢阀门厂家",
+      "sub": "清港、沙门、芦浦等镇不锈钢球阀、闸阀、止回阀源头工厂",
+      "intro": "玉环是不锈钢阀门产业集聚地。以下为玉环本地不锈钢阀门源头工厂，分布于清港、沙门、芦浦等镇，产品含不锈钢球阀、闸阀、截止阀、止回阀、过滤器等，规格口径 DN15-DN63，支持来图来样定制与批发。",
+      "faqs": [
+        {"q": "玉环哪里有不锈钢阀门厂家？", "a": "玉环清港、沙门、芦浦等镇均有不锈钢阀门源头工厂，如上所列，可直接联系厂家拿样报价。"},
+        {"q": "玉环不锈钢阀门厂家哪家好？", "a": "不锈钢阀门可优先联系芦浦的汇瑞、显亿；若需黄铜/不锈钢兼顾，可联系清港的杏诺、赣商与沙门的凯非拉。"}
+      ],
+      "factoryFiles": ["changjia/qinggang-xingnuo.html", "changjia/shamen-kaifeila.html", "changjia/qinggang-ganshang.html", "changjia/lupu-huirui.html", "changjia/lupu-xianyi.html"],
+      "related": [
+        {"name": "玉环黄铜阀门/水暖厂家", "url": "/chanpin/huangtong-famen.html"},
+        {"name": "玉环分水器厂家", "url": "/chanpin/fenshuqi.html"},
+        {"name": "玉环水暖管件/管道厂家", "url": "/chanpin/guandao-guanjian.html"}
+      ]
+    },
+    {
+      "file": "chanpin/huangtong-famen.html",
+      "name": "玉环黄铜阀门/水暖厂家",
+      "sub": "清港、沙门等镇黄铜球阀、闸阀、水暖管件源头工厂",
+      "intro": "玉环是黄铜阀门与水暖器材的传统产区。以下为玉环本地黄铜阀门、水暖源头工厂，分布于清港、沙门等镇，产品含黄铜球阀、闸阀、截止阀、水暖管件、卫浴五金等，规格口径 DN15-DN63，支持定制与批发。",
+      "faqs": [
+        {"q": "玉环哪里有黄铜阀门厂家？", "a": "玉环清港、沙门等镇均有黄铜阀门源头工厂，如上所列，可直接联系厂家拿样报价。"},
+        {"q": "玉环黄铜阀门和不锈钢阀门怎么选？", "a": "黄铜阀门性价比高、适用常规水暖；不锈钢阀门更耐腐、适用给水与食品级场景。两家材质兼做的厂家（杏诺、凯非拉、赣商）可按需对接。"}
+      ],
+      "factoryFiles": ["changjia/qinggang-xingnuo.html", "changjia/shamen-kaifeila.html", "changjia/qinggang-ganshang.html"],
+      "related": [
+        {"name": "玉环不锈钢阀门厂家", "url": "/chanpin/buxiugang-famen.html"},
+        {"name": "玉环分水器厂家", "url": "/chanpin/fenshuqi.html"},
+        {"name": "玉环水暖管件/管道厂家", "url": "/chanpin/guandao-guanjian.html"}
+      ]
+    },
+    {
+      "file": "chanpin/fenshuqi.html",
+      "name": "玉环分水器厂家",
+      "sub": "沙门等镇地暖分水器源头工厂，黄铜/不锈钢材质",
+      "intro": "分水器（地暖分水器）是玉环阀门产业的特色品类。以下为玉环本地分水器源头工厂，分布于沙门等镇，材质含黄铜与不锈钢，支持地暖分水器定制与批发。",
+      "faqs": [
+        {"q": "玉环哪里有分水器厂家？", "a": "玉环沙门镇有分水器源头工厂（凯非拉），可联系厂家拿样报价，支持黄铜/不锈钢分水器定制。"},
+        {"q": "玉环分水器一般什么材质？", "a": "以黄铜为主，也有不锈钢分水器；具体材质与规格可直接与厂家确认。"}
+      ],
+      "factoryFiles": ["changjia/shamen-kaifeila.html"],
+      "related": [
+        {"name": "玉环不锈钢阀门厂家", "url": "/chanpin/buxiugang-famen.html"},
+        {"name": "玉环黄铜阀门/水暖厂家", "url": "/chanpin/huangtong-famen.html"},
+        {"name": "玉环水暖管件/管道厂家", "url": "/chanpin/guandao-guanjian.html"}
+      ]
+    },
+    {
+      "file": "chanpin/guandao-guanjian.html",
+      "name": "玉环水暖管件/管道厂家",
+      "sub": "清港、芦浦等镇给水管道、不锈钢管件源头工厂",
+      "intro": "玉环在水暖管件、给水管道与不锈钢管件领域厂家集中。以下为玉环本地水暖管件、管道源头工厂，分布于清港、芦浦等镇，产品含给水管道、不锈钢管道、水暖管件、金属配件等，支持定制与批发。",
+      "faqs": [
+        {"q": "玉环哪里有不锈钢管件/管道厂家？", "a": "玉环清港、芦浦等镇均有不锈钢管道与管件源头工厂，如上所列，可直接联系厂家拿样报价。"},
+        {"q": "玉环给水管道一般什么材质？", "a": "以不锈钢为主，也有黄铜水暖管件；具体材质与规格可直接与厂家确认。"}
+      ],
+      "factoryFiles": ["changjia/qinggang-ganshang.html", "changjia/lupu-xianyi.html", "changjia/lupu-huirui.html"],
+      "related": [
+        {"name": "玉环不锈钢阀门厂家", "url": "/chanpin/buxiugang-famen.html"},
+        {"name": "玉环黄铜阀门/水暖厂家", "url": "/chanpin/huangtong-famen.html"},
+        {"name": "玉环分水器厂家", "url": "/chanpin/fenshuqi.html"}
+      ]
+    }
+  ],
+  "towns": [
+    {"file": "zhen/chumen.html", "name": "楚门镇", "sub": "楚门镇不锈钢阀门集聚，已收录源头工厂如下。", "factoryFiles": ["changjia/chumen-buxiugang-famen.html"]},
+    {"file": "zhen/qinggang.html", "name": "清港镇", "sub": "清港镇阀门/水暖/分水器产业集中，已收录源头工厂如下。", "factoryFiles": ["changjia/qinggang-xingnuo.html", "changjia/qinggang-ganshang.html"]},
+    {"file": "zhen/lupu.html", "name": "芦浦镇", "sub": "芦浦镇不锈钢阀门/管件产业集中，已收录源头工厂如下。", "factoryFiles": ["changjia/lupu-huirui.html", "changjia/lupu-xianyi.html"]},
+    {"file": "zhen/yucheng.html", "name": "玉城街道", "sub": "玉城街道综合制造，厂家正在收录中。", "factoryFiles": []},
+    {"file": "zhen/shamen.html", "name": "沙门镇", "sub": "沙门镇阀门/分水器产业集中，已收录源头工厂如下。", "factoryFiles": ["changjia/shamen-kaifeila.html"]},
+    {"file": "zhen/ganjiang.html", "name": "干江镇", "sub": "干江镇汽配/机械产业，厂家正在收录中。", "factoryFiles": []},
+    {"file": "zhen/longxi.html", "name": "龙溪镇", "sub": "龙溪镇阀门/水暖产业，厂家正在收录中。", "factoryFiles": []},
+    {"file": "zhen/damaizu.html", "name": "大麦屿街道", "sub": "大麦屿街道港口与制造，厂家正在收录中。", "factoryFiles": []}
+  ],
+  "industries": [
+    {"file": "hangye/famen.html", "name": "阀门制造", "sub": "玉环阀门制造源头工厂，含球阀、闸阀、止回阀等。", "factoryFiles": ["changjia/qinggang-xingnuo.html", "changjia/shamen-kaifeila.html", "changjia/qinggang-ganshang.html", "changjia/lupu-huirui.html", "changjia/lupu-xianyi.html", "changjia/chumen-buxiugang-famen.html"]},
+    {"file": "hangye/shuinuan.html", "name": "水暖器材", "sub": "玉环水暖器材源头工厂，含管件、卫浴、分水器。", "factoryFiles": ["changjia/qinggang-xingnuo.html", "changjia/shamen-kaifeila.html", "changjia/qinggang-ganshang.html", "changjia/lupu-huirui.html", "changjia/lupu-xianyi.html"]},
+    {"file": "hangye/jixie.html", "name": "机械制造", "sub": "玉环机械制造源头工厂，厂家正在收录中。", "factoryFiles": []},
+    {"file": "hangye/qipei.html", "name": "汽车配件", "sub": "玉环汽车配件源头工厂，厂家正在收录中。", "factoryFiles": []}
+  ]
+}

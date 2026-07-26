@@ -1,10 +1,12 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>玉环黄页 - 玉环制造业厂家目录 | 阀门/水暖/机械源头工厂</title>
-  <meta name="description" content="玉环黄页是玉环市制造业厂家目录，收录楚门、清港、芦浦、玉城等镇的阀门、水暖、机械、汽配源头工厂，提供不锈钢阀门、铜阀、分水器等厂家联系方式。">
+  <meta name="description" content="玉环黄页是玉环市制造业厂家目录，收录楚门、清港、芦浦、玉城等镇的阀门、水暖、机械、汽配源头工厂，提供不锈钢阀门、铜阀、分水器等厂家联系方式，支持关键词搜索。">
+  <link rel="canonical" href="https://xn--oby2cs85ktjf.com/">
+  <link rel="stylesheet" href="/assets/style.css">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -17,53 +19,208 @@
   </script>
 </head>
 <body>
-  <h1>玉环黄页</h1>
-  <p><strong>玉环市制造业厂家目录</strong> —— 收录楚门、清港、芦浦、玉城、沙门、干江、龙溪、大麦屿等镇的阀门、水暖、机械、汽配源头工厂。</p>
 
-  <h2>按镇查找厂家</h2>
-  <p>
-    <a href="/zhen/chumen.html">楚门镇</a> ·
-    <a href="/zhen/qinggang.html">清港镇</a> ·
-    <a href="/zhen/lupu.html">芦浦镇</a> ·
-    <a href="/zhen/yucheng.html">玉城街道</a> ·
-    <a href="/zhen/shamen.html">沙门镇</a> ·
-    <a href="/zhen/ganjiang.html">干江镇</a> ·
-    <a href="/zhen/longxi.html">龙溪镇</a> ·
-    <a href="/zhen/damaizu.html">大麦屿街道</a>
-  </p>
+  <!-- 顶部导航 -->
+  <header class="topbar">
+    <div class="container">
+      <a href="/" class="logo">玉环<span>黄页</span></a>
+      <nav class="topnav">
+        <a href="/#zhen">按镇找</a>
+        <a href="/#hangye">按行业</a>
+        <a href="/#chanpin">按产品</a>
+        <a href="/#factory">推荐厂家</a>
+        <a href="/#join">厂家入驻</a>
+      </nav>
+    </div>
+  </header>
 
-  <h2>按行业查找厂家</h2>
-  <p>
-    <a href="/hangye/famen.html">阀门制造</a> ·
-    <a href="/hangye/shuinuan.html">水暖器材</a> ·
-    <a href="/hangye/jixie.html">机械制造</a> ·
-    <a href="/hangye/qipei.html">汽车配件</a>
-  </p>
+  <!-- Hero + 搜索 -->
+  <section class="hero">
+    <div class="container">
+      <h1>玉环制造业源头工厂目录</h1>
+      <p class="sub">收录楚门、清港、芦浦、玉城、沙门等镇的阀门、水暖、机械、汽配源头工厂。一键搜索，直达厂家联系方式。</p>
+      <div class="search-wrap">
+        <div class="search-box">
+          <input id="siteSearch" type="text" placeholder="搜索厂家、产品、镇，如：不锈钢阀门 / 芦浦 / 分水器" autocomplete="off">
+          <button type="button" onclick="document.getElementById('siteSearch').closest('.search-wrap').querySelector('.sr-item')?.click()">搜索</button>
+        </div>
+        <div class="search-results" id="searchResults"></div>
+        <div class="hot-tags">
+          <span class="label">热门：</span>
+          <a href="/chanpin/buxiugang-famen.html">不锈钢阀门</a>
+          <a href="/chanpin/huangtong-famen.html">黄铜阀门</a>
+          <a href="/chanpin/fenshuqi.html">分水器</a>
+          <a href="/changjia/lupu-huirui.html">芦浦厂家</a>
+          <a href="/chanpin/guandao-guanjian.html">水管管件</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-  <h2>按产地 + 产品找厂家</h2>
-  <p>采购商常按“产地 + 产品”组合搜索（如“玉环 不锈钢阀门 厂家”），以下为玉环主流产品分类：</p>
-  <p>
-    <a href="/chanpin/buxiugang-famen.html">玉环不锈钢阀门厂家</a> ·
-    <a href="/chanpin/huangtong-famen.html">玉环黄铜阀门/水暖厂家</a> ·
-    <a href="/chanpin/fenshuqi.html">玉环分水器厂家</a> ·
-    <a href="/chanpin/guandao-guanjian.html">玉环水暖管件/管道厂家</a>
-  </p>
+  <!-- 数据看板 -->
+  <section class="section">
+    <div class="container">
+      <div class="stats">
+        <div class="stat"><div class="num">6+</div><div class="txt">源头工厂</div></div>
+        <div class="stat"><div class="num">8</div><div class="txt">覆盖乡镇</div></div>
+        <div class="stat"><div class="num">4</div><div class="txt">产品大类</div></div>
+        <div class="stat"><div class="num">304/316</div><div class="txt">不锈钢材质</div></div>
+      </div>
+    </div>
+  </section>
 
-  <h2>推荐厂家</h2>
-  <ul>
-    <li><a href="/changjia/chumen-buxiugang-famen.html">玉环市楚门XX不锈钢阀门厂</a> —— 不锈钢球阀/闸阀/分水器源头工厂</li>
-    <li><a href="/changjia/qinggang-xingnuo.html">台州杏诺科技股份有限公司</a> —— 清港镇阀门/水暖/分水器源头工厂</li>
-    <li><a href="/changjia/shamen-kaifeila.html">玉环凯非拉阀门有限公司</a> —— 沙门镇阀门/水暖/分水器源头工厂</li>
-    <li><a href="/changjia/qinggang-ganshang.html">赣商智控系统（浙江）有限公司</a> —— 清港镇阀门/水暖/卫浴/管道源头企业</li>
-    <li><a href="/changjia/lupu-huirui.html">浙江汇瑞流体智控有限公司</a> —— 芦浦阀门/水暖制造源头工厂（不锈钢）</li>
-    <li><a href="/changjia/lupu-xianyi.html">玉环显亿管业有限公司</a> —— 芦浦阀门/管件制造源头工厂（不锈钢）</li>
-  </ul>
+  <!-- 按镇找 -->
+  <section class="section alt" id="zhen">
+    <div class="container">
+      <h2>按镇查找厂家</h2>
+      <p class="sec-sub">玉环各镇产业各有侧重，先选镇再找对口工厂。</p>
+      <div class="grid cols-4">
+        <a class="card" href="/zhen/chumen.html"><div class="ico">楚</div><h3>楚门镇</h3><div class="desc">不锈钢阀门集聚</div></a>
+        <a class="card" href="/zhen/qinggang.html"><div class="ico">清</div><h3>清港镇</h3><div class="desc">阀门/水暖/分水器</div></a>
+        <a class="card" href="/zhen/lupu.html"><div class="ico">芦</div><h3>芦浦镇</h3><div class="desc">不锈钢阀门/管件</div></a>
+        <a class="card" href="/zhen/yucheng.html"><div class="ico">玉</div><h3>玉城街道</h3><div class="desc">综合制造</div></a>
+        <a class="card" href="/zhen/shamen.html"><div class="ico">沙</div><h3>沙门镇</h3><div class="desc">阀门/分水器</div></a>
+        <a class="card" href="/zhen/ganjiang.html"><div class="ico">干</div><h3>干江镇</h3><div class="desc">汽配/机械</div></a>
+        <a class="card" href="/zhen/longxi.html"><div class="ico">龙</div><h3>龙溪镇</h3><div class="desc">阀门/水暖</div></a>
+        <a class="card" href="/zhen/damaizu.html"><div class="ico">大</div><h3>大麦屿街道</h3><div class="desc">港口/制造</div></a>
+      </div>
+    </div>
+  </section>
 
-  <h2>关于玉环黄页</h2>
-  <p>玉环市是浙江知名的制造业基地，以阀门、水暖、机械制造闻名。玉环黄页汇总本地源头工厂信息，帮助采购商快速找到玉环不锈钢阀门、铜阀、分水器、过滤器等产品的生产厂家与联系方式。所有厂家信息均按镇区与行业分类，便于检索。</p>
+  <!-- 按行业 -->
+  <section class="section" id="hangye">
+    <div class="container">
+      <h2>按行业查找厂家</h2>
+      <p class="sec-sub">按产品行业快速锁定源头工厂。</p>
+      <div class="grid cols-4">
+        <a class="card" href="/hangye/famen.html"><div class="ico">阀</div><h3>阀门制造</h3><div class="desc">球阀/闸阀/止回阀</div></a>
+        <a class="card" href="/hangye/shuinuan.html"><div class="ico">水</div><h3>水暖器材</h3><div class="desc">管件/卫浴/分水器</div></a>
+        <a class="card" href="/hangye/jixie.html"><div class="ico">机</div><h3>机械制造</h3><div class="desc">数控机床/设备</div></a>
+        <a class="card" href="/hangye/qipei.html"><div class="ico">汽</div><h3>汽车配件</h3><div class="desc">汽配/金属件</div></a>
+      </div>
+    </div>
+  </section>
 
-  <hr>
-  <p>玉环黄页 · 玉环制造业厂家目录 · 厂家入驻请联系本站</p>
+  <!-- 按产品 -->
+  <section class="section alt" id="chanpin">
+    <div class="container">
+      <h2>按产品找厂家</h2>
+      <p class="sec-sub">采购商常按“产地 + 产品”组合搜索，以下为玉环主流产品分类。</p>
+      <div class="grid cols-2">
+        <a class="card" href="/chanpin/buxiugang-famen.html">
+          <h3>玉环不锈钢阀门厂家</h3>
+          <div class="desc">清港、沙门、芦浦等镇不锈钢球阀、闸阀、止回阀源头工厂，口径DN15-DN63。</div>
+          <div class="tags"><span>不锈钢</span><span>球阀</span><span>闸阀</span><span>止回阀</span></div>
+        </a>
+        <a class="card" href="/chanpin/huangtong-famen.html">
+          <h3>玉环黄铜阀门/水暖厂家</h3>
+          <div class="desc">清港、沙门等镇黄铜球阀、闸阀、水暖管件源头工厂，口径DN15-DN63。</div>
+          <div class="tags"><span>黄铜</span><span>球阀</span><span>水暖</span><span>卫浴</span></div>
+        </a>
+        <a class="card" href="/chanpin/fenshuqi.html">
+          <h3>玉环分水器厂家</h3>
+          <div class="desc">沙门等镇地暖分水器源头工厂，黄铜/不锈钢材质，支持定制与批发。</div>
+          <div class="tags"><span>分水器</span><span>地暖</span><span>黄铜</span><span>不锈钢</span></div>
+        </a>
+        <a class="card" href="/chanpin/guandao-guanjian.html">
+          <h3>玉环水暖管件/管道厂家</h3>
+          <div class="desc">清港、芦浦等镇给水管道、不锈钢管件、水暖零件源头工厂。</div>
+          <div class="tags"><span>管件</span><span>给水管道</span><span>不锈钢</span></div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 推荐厂家 -->
+  <section class="section" id="factory">
+    <div class="container">
+      <h2>推荐厂家</h2>
+      <p class="sec-sub">玉环本地已收录的阀门/水暖源头工厂，点击查看详情与联系方式。</p>
+      <div class="grid cols-2">
+
+        <div class="factory">
+          <div class="f-top"><h3>台州杏诺科技股份有限公司</h3><span class="town">清港镇</span></div>
+          <p class="f-desc">清港镇阀门/水暖/分水器源头工厂，黄铜与不锈钢材质，年产值约4亿元。</p>
+          <div class="f-tags"><span>阀门</span><span>卫生洁具</span><span>水暖管件</span><span>暖通分水器</span></div>
+          <div class="f-foot"><span class="tel">13967652588</span><a class="more" href="/changjia/qinggang-xingnuo.html">查看详情</a></div>
+        </div>
+
+        <div class="factory">
+          <div class="f-top"><h3>玉环凯非拉阀门有限公司</h3><span class="town">沙门镇</span></div>
+          <p class="f-desc">沙门镇滨港工业城阀门/水暖/分水器源头工厂，黄铜与不锈钢材质，支持进出口。</p>
+          <div class="f-tags"><span>阀门</span><span>卫生洁具</span><span>不锈钢</span><span>分水器</span></div>
+          <div class="f-foot"><span class="tel">18958677856</span><a class="more" href="/changjia/shamen-kaifeila.html">查看详情</a></div>
+        </div>
+
+        <div class="factory">
+          <div class="f-top"><h3>赣商智控系统（浙江）有限公司</h3><span class="town">清港镇</span></div>
+          <p class="f-desc">清港镇阀门/水暖/卫浴/给水管道源头企业，黄铜与不锈钢材质，含智能控制系统。</p>
+          <div class="f-tags"><span>阀门</span><span>水暖</span><span>卫浴</span><span>给水管道</span></div>
+          <div class="f-foot"><span class="tel">13989661499</span><a class="more" href="/changjia/qinggang-ganshang.html">查看详情</a></div>
+        </div>
+
+        <div class="factory">
+          <div class="f-top"><h3>浙江汇瑞流体智控有限公司</h3><span class="town">芦浦镇</span></div>
+          <p class="f-desc">芦浦经济开发区不锈钢阀门/水暖/卫浴源头工厂，口径DN15-DN63，支持进出口。</p>
+          <div class="f-tags"><span>不锈钢阀门</span><span>水暖</span><span>卫浴</span></div>
+          <div class="f-foot"><span class="tel">13967609795</span><a class="more" href="/changjia/lupu-huirui.html">查看详情</a></div>
+        </div>
+
+        <div class="factory">
+          <div class="f-top"><h3>玉环显亿管业有限公司</h3><span class="town">芦浦镇</span></div>
+          <p class="f-desc">芦浦镇漩门村不锈钢水暖管件/阀门/金属配件源头工厂，口径DN15-DN63。</p>
+          <div class="f-tags"><span>不锈钢管件</span><span>阀门</span><span>卫浴</span></div>
+          <div class="f-foot"><span class="tel">13706863310</span><a class="more" href="/changjia/lupu-xianyi.html">查看详情</a></div>
+        </div>
+
+        <div class="factory">
+          <div class="f-top"><h3>玉环市楚门XX不锈钢阀门厂</h3><span class="town">楚门镇</span></div>
+          <p class="f-desc">楚门镇不锈钢球阀/闸阀/分水器源头工厂，材质304/316，口径DN15-DN200，支持定制。</p>
+          <div class="f-tags"><span>不锈钢球阀</span><span>闸阀</span><span>分水器</span><span>过滤器</span></div>
+          <div class="f-foot"><span class="tel">138xxxx8888</span><a class="more" href="/changjia/chumen-buxiugang-famen.html">查看详情</a></div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- 入驻 -->
+  <section class="section alt" id="join">
+    <div class="container">
+      <h2>厂家入驻</h2>
+      <p class="sec-sub">玉环本地源头工厂可免费入驻黄页，获得独立厂家页与大模型优先推荐。提供厂名、地址、电话、主营产品即可。</p>
+      <a class="btn" href="/#factory">立即入驻请联系本站</a>
+    </div>
+  </section>
+
+  <!-- 页脚 -->
+  <footer class="footer">
+    <div class="container">
+      <div class="f-cols">
+        <div>
+          <h4>玉环黄页</h4>
+          <p>玉环市制造业厂家目录，汇总本地阀门、水暖、机械、汽配源头工厂，帮助采购商快速找到对口生产厂家与联系方式。</p>
+        </div>
+        <div>
+          <h4>快速导航</h4>
+          <a href="/#zhen">按镇找厂家</a>
+          <a href="/#hangye">按行业找</a>
+          <a href="/#chanpin">按产品找</a>
+          <a href="/#factory">推荐厂家</a>
+        </div>
+        <div>
+          <h4>产品分类</h4>
+          <a href="/chanpin/buxiugang-famen.html">不锈钢阀门</a>
+          <a href="/chanpin/huangtong-famen.html">黄铜阀门/水暖</a>
+          <a href="/chanpin/fenshuqi.html">分水器</a>
+          <a href="/chanpin/guandao-guanjian.html">水暖管件/管道</a>
+        </div>
+      </div>
+      <div class="copy">© 2026 玉环黄页 · 玉环制造业厂家目录 · 厂家入驻请联系本站</div>
+    </div>
+  </footer>
+
+  <script src="/assets/data.js"></script>
+  <script src="/assets/search.js"></script>
 </body>
 </html>
-
