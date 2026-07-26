@@ -1,4 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://yhhy.cn/sitemap.xml
+Sitemap: https://xn--oby2cs85ktjf.com/sitemap.xml
+
